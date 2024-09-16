@@ -1,10 +1,10 @@
 # Tesi di Laurea Triennale
 
-#Design, sviluppo e ottimizzazione di una rete neurale convoluzionale (CNN) per il riconoscimento dei picchi del battito cardiaco dall'elettroencefalogramma
+# Design, sviluppo e ottimizzazione di una rete neurale convoluzionale (CNN) per il riconoscimento dei picchi del battito cardiaco dall'elettroencefalogramma
 
 <p>L'obiettivo dello studio è quello di costruire un modello robusto in grado di generalizzare su dati eterogenei. Sono stati testati diversi iperparametri (batch_size, learning_rate, momentum) e ottimizzatori (SGD, ADAM) utilizzando tecniche di GridSearch Cross-Validation per ottenere configurazioni ottimali. Inoltre, sono stati implementati esperimenti con il metodo Leave-One-Subject-Out (LOSO) per migliorare le capacità di generalizzazione.</p>
 
-##ABSTRACT
+## ABSTRACT
 
 <P>
   Nell’ambito del Machine Learning il riconoscimento dell’a1vità umana, o Human Activity Recogni0on (di seguito HAR), è il problema di determinare l’azione che sta compiendo un essere umano. L’obiettivo dell’HAR è quello di identificare e classificare le attività umane da dati grezzi provenienti da sensori, come ad esempio accelerometri o giroscopi presenti in smartphone, smartwatch o dispositivi indossabili.

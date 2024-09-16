@@ -14,4 +14,4 @@ Nello specifico, sono state testati e individuati i valori ottmali degli iperpar
 I risultati ottenuti sono stati utili a identificare quali siano i migliori settaggi di un modello sequenziale affinché possa classificare adeguatamente i dati forniti con grandi capacità di generalizzazione.
 </P>
 
-##Lo studio completo è riportato nella documentazione, insieme ad alcuni degli script utilizzati! ☝🏻
+## Lo studio completo è riportato nella documentazione, insieme ad alcuni degli script utilizzati! ☝🏻
